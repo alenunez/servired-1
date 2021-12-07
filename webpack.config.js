@@ -4,6 +4,9 @@ module.exports = {
       home: '/src/app/home.js',
       BuscarEnvio: '/src/app/BuscarEnvio.js',
       ProgramarEnvio: '/src/app/ProgramarEnvio.js',
+      cancelarOrden: '/src/app/cancelarOrden.js',
+      detalleRastreo: '/src/app/detalleRastreo.js',
+      detalleEnvio: '/src/app/detalleEnvio.js',
       // rutas aqui
       // rutas aqui
     },
